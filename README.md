@@ -1,10 +1,9 @@
 agriculture
 小程序小白的产品线之路
-WeUI for 小程序 为微信小程序量身设计
 =====
 
-[![npm version](https://img.shields.io/npm/v/weui-wxss.svg)](https://www.npmjs.org/package/weui-wxss)
-[![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/weui/weui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![npm version]
+[![Gitter]
 
 ## 概述
 
